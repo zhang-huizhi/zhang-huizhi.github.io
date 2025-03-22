@@ -5,7 +5,7 @@ permalink: /
 # subtitle: <a href='https://www.wisc.edu/'>Affiliations</a>. Madison WI USA.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
@@ -36,6 +36,8 @@ At UCLA, I work in the Mobility Lab under the mentorship of Professor [Jiaqi Ma]
 At UW–Madison, I am a member of the Wisconsin Wireless and Networking Systems Laboratory (WiNGS Lab), led by Professor [Suman Banerjee](https://pages.cs.wisc.edu/~suman/), where I focus on object detection in edge-supported augmented reality scenarios.
 
 At UCI, I am involved in research at Ding Lab, advised by Professor [Fangyuan Ding](https://engineering.uci.edu/users/fangyuan-ding), where I work on combining deep learning with GUI tools for cell image segmentation.
+
+Last summer, I was fortunate to have my internship at [Hypergryph Network Technology Co.(鹰角网络)](https://www.gryphline.com/en-us/info) as an algorithm engineer for recommendation system.
 
 These experiences have allowed me to develop a strong foundation in multi-agent perception, augmented reality, and deep learning, and have further sparked my interest in pursuing graduate studies in Computer Science.
 
