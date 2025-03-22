@@ -29,7 +29,7 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-I am a third-year undergraduate student majoring in Computer Sciences at the University of Wisconsin–Madison. I am currently engaged in research across multiple institutions, which has allowed me to explore a broad range of topics within computer science.
+I am a third-year undergraduate student majoring in Computer Science at the University of Wisconsin–Madison. I am currently engaged in research across multiple institutions, which has allowed me to explore a broad range of topics within Computer Science.
 
 At UCLA, I work in the Mobility Lab under the mentorship of [Professor Jiaqi Ma](https://samueli.ucla.edu/people/jiaqi-ma/), where I contribute to research on heterogeneous cooperative perception for autonomous driving.
 
