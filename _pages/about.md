@@ -28,15 +28,16 @@ latest_posts:
 ---
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
-I am a third-year undergraduate student majoring in Computer Sciences at the University of Wisconsin–Madison. I am currently engaged in research across multiple institutions, where I have the opportunity to explore diverse areas within computer science.
 
-At UCLA, I work in the Mobility Lab under the mentorship of Professor [Jiaqi Ma](https://samueli.ucla.edu/people/jiaqi-ma/), contributing to research at  intersection of coorperative perception and quantization.
+I am a third-year undergraduate student majoring in Computer Sciences at University of Wisconsin–Madison. I am currently engaged in research across multiple institutions, where I have the opportunity to explore diverse areas within computer science.
+
+At UCLA, I work in the Mobility Lab under the mentorship of Professor [Jiaqi Ma](https://samueli.ucla.edu/people/jiaqi-ma/), contributing to research at heterogeneous coorperative perception for autonomous driving.
 
 At UW–Madison, I am a member of the Wisconsin Wireless and Networking Systems Laboratory (WiNGS Lab), led by Professor [Suman Banerjee](https://pages.cs.wisc.edu/~suman/), where I focus on object detection in edge-supported augmented reality scenarios.
 
-In addition, I am involved in research at the Ding Lab at the University of California, Irvine, advised by Professor [Fangyuan Ding](https://engineering.uci.edu/users/fangyuan-ding), where I work on deploying optimized transformer models for accurate cell image segmentation.
+At UCI, I am involved in research at Ding Lab, advised by Professor [Fangyuan Ding](https://engineering.uci.edu/users/fangyuan-ding), where I work on combining deep learning with GUI tools for cell image segmentation.
 
-These experiences have allowed me to develop a strong foundation in multi-agent perception, augmented reality, and applied deep learning, and have further sparked my interest in pursuing graduate studies in computer science.
+These experiences have allowed me to develop a strong foundation in multi-agent perception, augmented reality, and deep learning, and have further sparked my interest in pursuing graduate studies in Computer Science.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
