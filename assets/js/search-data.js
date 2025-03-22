@@ -441,7 +441,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/Huizhi Zhang", "_blank");
+          window.open("https://www.linkedin.com/in/huizhi-zhang-77311a356", "_blank");
         },
       },{
         id: 'social-rss',
