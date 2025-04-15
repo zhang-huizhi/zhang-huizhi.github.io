@@ -31,6 +31,8 @@ latest_posts:
 
 I am a third-year undergraduate student majoring in Computer Science at the University of Wisconsin–Madison. I am currently engaged in research across multiple institutions, which has allowed me to explore a broad range of topics within Computer Science.
 
+【Newest Update】 This summer I will have my summer research intern in [Zhou Lab](https://boleizhou.github.io/lab/) at UCLA!! Thank you [Professor Bolei Zhou](https://samueli.ucla.edu/people/bolei-zhou/)!!!
+
 At UCLA, I work in the Mobility Lab under the mentorship of [Professor Jiaqi Ma](https://samueli.ucla.edu/people/jiaqi-ma/), where I contribute to research on heterogeneous cooperative perception for autonomous driving.
 
 At UW–Madison, I am a member of the Wisconsin Wireless and Networking Systems Laboratory (WiNGS Lab), led by [Professor Suman Banerjee](https://pages.cs.wisc.edu/~suman/). My work focuses on object detection in edge-supported augmented reality scenarios.
