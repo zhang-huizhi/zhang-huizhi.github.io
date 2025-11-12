@@ -29,17 +29,19 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-I am a third-year undergraduate student majoring in Computer Science at the University of Wisconsin–Madison. I am currently engaged in research across multiple institutions, which has allowed me to explore a broad range of topics within Computer Science.
+I am a fourth-year undergraduate student majoring in Computer Science at the University of Wisconsin–Madison. I have engaged in research across multiple institutions, which has allowed me to explore a broad range of topics within Computer Science.
 
-At UCLA, I work in the Mobility Lab under the mentorship of [Professor Jiaqi Ma](https://samueli.ucla.edu/people/jiaqi-ma/), where I contribute to research on heterogeneous cooperative perception for autonomous driving.
+At UCLA, I worked as a Summer Research Intern in Vision and Autonomy Intelligence Lab under the mentorship of [Professor Bolei Zhou](https://samueli.ucla.edu/people/bolei-zhou/). I researched on simulation, generative model, and embodied AI.
 
-At UW–Madison, I am a member of the Wisconsin Wireless and Networking Systems Laboratory (WiNGS Lab), led by [Professor Suman Banerjee](https://pages.cs.wisc.edu/~suman/). My work focuses on object detection in edge-supported augmented reality scenarios.
+Also at UCLA, I worked in the Mobility Lab under the mentorship of [Professor Jiaqi Ma](https://samueli.ucla.edu/people/jiaqi-ma/), where I contribute to research on heterogeneous cooperative perception for autonomous driving.
+
+At UW–Madison, I was a member of the Wisconsin Wireless and Networking Systems Laboratory (WiNGS Lab), led by [Professor Suman Banerjee](https://pages.cs.wisc.edu/~suman/). My work focuses on object detection in edge-supported augmented reality scenarios.
 
 At UC Irvine, I conduct research in the Ding Lab under the guidance of [Professor Fangyuan Ding](https://engineering.uci.edu/users/fangyuan-ding), where I integrate deep learning with GUI-based tools to support accurate cell image segmentation.
 
 In the summer of 2024, I completed an internship at [Hypergryph Network Technology Co.(鹰角网络)](https://www.gryphline.com/en-us/info) where I worked as an algorithm engineer on recommendation systems.
 
-These experiences have helped me build a strong foundation in multi-agent perception, augmented reality, and applied deep learning. They have also further sparked my interest in pursuing graduate studies in computer science.
+These experiences have helped me build a strong foundation in perception, simulation, deep learning, and embodied AI. They have also further sparked my interest in pursuing graduate studies in Computer Science.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 

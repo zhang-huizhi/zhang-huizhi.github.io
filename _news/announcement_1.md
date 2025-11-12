@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-This summer, I will be joining [Professor Bolei Zhou](https://samueli.ucla.edu/people/bolei-zhou/)’s group at UCLA as a research intern.
+This summer, I will be joining [Professor Bolei Zhou](https://samueli.ucla.edu/people/bolei-zhou/)’s group at UCLA Vision and Autonomy Intelligence Lab as a research intern.
