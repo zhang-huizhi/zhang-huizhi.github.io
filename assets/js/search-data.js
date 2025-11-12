@@ -366,8 +366,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-this-summer-i-will-be-joining-professor-bolei-zhou-s-group-at-ucla-as-a-research-intern",
-          title: 'This summer, I will be joining Professor Bolei Zhou’s group at UCLA as...',
+            },},{id: "news-this-summer-i-will-be-joining-professor-bolei-zhou-s-group-at-ucla-vision-and-autonomy-intelligence-lab-as-a-research-intern",
+          title: 'This summer, I will be joining Professor Bolei Zhou’s group at UCLA Vision...',
+          description: "",
+          section: "News",},{id: "news-our-quantv2x-paper-is-selected-for-an-oral-presentation-at-iccv-2025-x-sense",
+          title: 'Our QuantV2X paper is selected for an Oral Presentation at ICCV 2025 X-Sense!...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
