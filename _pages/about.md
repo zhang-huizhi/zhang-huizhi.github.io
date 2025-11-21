@@ -29,7 +29,7 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-I am a fourth-year undergraduate student majoring in Computer Science at the University of Wisconsin–Madison. I am very interested in Embodied AI, Perception, and Simulation, especially under the setting of Urban Navigation and Autonomous Driving. 
+I am a fourth-year undergraduate student majoring in Computer Science at the University of Wisconsin–Madison. I am very interested in Embodied AI, Perception, and Simulation, especially under the setting of Urban Navigation and Autonomous Driving.
 
 At UCLA, I worked as a Summer Research Intern in Vision and Autonomy Intelligence Lab under the mentorship of [Professor Bolei Zhou](https://samueli.ucla.edu/people/bolei-zhou/). I researched on simulation, generative model, and embodied AI.
 
