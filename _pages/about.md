@@ -13,7 +13,7 @@ profile:
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -29,17 +29,11 @@ latest_posts:
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
-I am a fourth-year undergraduate student majoring in Computer Science at the University of Wisconsin–Madison. I am very interested in Embodied AI, Perception, and Simulation, especially under the setting of Urban Navigation and Autonomous Driving.
+I am an incoming M.S. student in Computer Science at UCLA, where I will work with [Professor Bolei Zhou](https://samueli.ucla.edu/people/bolei-zhou/) in the [Vision and Autonomy Intelligence Lab (VAIL)](https://vail-ucla.github.io/). My research interests include Embodied AI, perception, and simulation, particularly for urban navigation and autonomous driving.
 
-At UCLA, I worked as a Summer Research Intern in Vision and Autonomy Intelligence Lab under the mentorship of [Professor Bolei Zhou](https://samueli.ucla.edu/people/bolei-zhou/). I researched on simulation, generative model, and embodied AI.
+I received my B.S. in Computer Science from the University of Wisconsin–Madison. During my undergraduate studies, I conducted research in VAIL and the [Mobility Lab](https://mobility-lab.seas.ucla.edu/) at UCLA, the [Wisconsin Wireless and Networking Systems Laboratory (WiNGS)](https://wings.cs.wisc.edu/) at UW–Madison, and the [Ding Lab](https://www.ding.eng.uci.edu/) at UC Irvine.
 
-Also at UCLA, I worked in the Mobility Lab under the mentorship of [Professor Jiaqi Ma](https://samueli.ucla.edu/people/jiaqi-ma/), where I contribute to research on heterogeneous cooperative perception for autonomous driving.
-
-At UW–Madison, I was a member of the Wisconsin Wireless and Networking Systems Laboratory (WiNGS Lab), led by [Professor Suman Banerjee](https://pages.cs.wisc.edu/~suman/). My work focuses on object detection in edge-supported augmented reality scenarios.
-
-At UC Irvine, I conducted research in the Ding Lab under the guidance of [Professor Fangyuan Ding](https://engineering.uci.edu/users/fangyuan-ding), where I integrate deep learning with GUI-based tools to support accurate cell image segmentation.
-
-In the summer of 2024, I completed an internship at [Hypergryph Network Technology Co.(鹰角网络)](https://www.gryphline.com/en-us/info) where I worked as an algorithm engineer on recommendation systems.
+I also worked as an algorithm engineering intern at [Hypergryph Network Technology Co. (鹰角网络)](https://www.gryphline.com/en-us/info), focusing on recommendation systems.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
