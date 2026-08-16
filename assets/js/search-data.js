@@ -361,6 +361,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-quantv2x-paper-is-selected-for-an-oral-presentation-at-iccv-2025-x-sense-more-detail-can-be-found-on-our-website",
           title: 'Our QuantV2X paper is selected for an Oral Presentation at ICCV 2025 X-Sense!...',
           description: "",
+          section: "News",},{id: "news-our-quantv2x-paper-has-been-accepted-to-eccv-2026-more-details-can-be-found-on-our-project-website",
+          title: 'Our QuantV2X paper has been accepted to ECCV 2026! More details can be...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -411,7 +414,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%68%7A%68%61%6E%67%39%35%32@%77%69%73%63.%65%64%75", "_blank");
+          window.open("mailto:%68%75%69%7A%68%69@%75%63%6C%61.%65%64%75", "_blank");
         },
       },{
         id: 'social-github',
