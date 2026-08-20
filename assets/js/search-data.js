@@ -355,8 +355,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-joined-hypergryph-network-technology-co-鹰角网络-as-an-algorithm-engineer-intern-for-summer-2024",
-          title: 'Joined Hypergryph Network Technology Co. (鹰角网络) as an Algorithm Engineer Intern for Summer...',
+            },},{id: "news-joined-hypergryph-network-technology-co-鹰角网络-as-an-algorithm-engineer-intern",
+          title: 'Joined Hypergryph Network Technology Co. (鹰角网络) as an Algorithm Engineer Intern.',
           description: "",
           section: "News",},{id: "news-i-will-join-professor-bolei-zhou-s-vision-and-autonomy-intelligence-lab-vail-at-ucla-as-a-research-intern-this-summer",
           title: 'I will join Professor Bolei Zhou’s Vision and Autonomy Intelligence Lab (VAIL) at...',
@@ -364,8 +364,8 @@ ninja.data = [{
           section: "News",},{id: "news-quantv2x-selected-for-an-oral-presentation-at-the-iccv-2025-x-sense-workshop",
           title: 'QuantV2X selected for an oral presentation at the ICCV 2025 X-Sense Workshop.',
           description: "",
-          section: "News",},{id: "news-first-day-at-coco-robotics-as-a-machine-learning-engineer-intern-this-summer-i-will-work-with-professor-bolei-zhou-and-brad-squicciarini-co-founder-and-cto-on-autonomy-for-the-world-s-largest-fleet-of-self-driving-delivery-vehicles",
-          title: 'First day at Coco Robotics as a Machine Learning Engineer Intern! This summer,...',
+          section: "News",},{id: "news-first-day-at-coco-robotics-as-a-machine-learning-engineer-intern-i-will-work-with-professor-bolei-zhou-and-brad-squicciarini-co-founder-and-cto-on-autonomy-for-the-world-s-largest-fleet-of-self-driving-delivery-vehicles",
+          title: 'First day at Coco Robotics as a Machine Learning Engineer Intern! I will...',
           description: "",
           section: "News",},{id: "news-quantv2x-accepted-to-eccv-2026",
           title: 'QuantV2X accepted to ECCV 2026!',
